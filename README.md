@@ -4,12 +4,14 @@
     <p align="center">A computer adventurer!</p>
   </div>
   <div>
-    <h1 align="center">My Projects 👀</h1>
+    <h1 align="center">To Do 📆</h1>
+  </div>
+  <div>
+    <h1 align="center">Working On ✏️</h1>
     <p align="center">Website</p>
   </div>
   <div>
-    <h1 align="center">My Things To Do 😤</h1>
-    <p align="center">Website</p>
+    <h1 align="center">Finished 📂</h1>
   </div>
   <div>
     <h1 align="center">My Personal Note 📝</h1>
