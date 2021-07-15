@@ -14,6 +14,6 @@
   <div>
     <h1 align="center">My Personal Note 📝</h1>
     <p align="center">I have a complicated past, but my passion remains development, and I will not give up!</p>
-    <img src="https://tenor.com/view/ohwell-anime-happy-okay-yehey-gif-7419638" align="center">
+    <img src="https://media1.tenor.com/images/4914389f2187d904e3c3d119febe8eec/tenor.gif?itemid=16140552" align="center">
   </div>
 </body>
